@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kotelshik/static/css/main.86fb3d7c.css",
+    "main.js": "/kotelshik/static/js/main.642df553.js",
+    "static/media/hero.webp": "/kotelshik/static/media/hero.93bd9958895b5ef3da22.webp",
+    "static/media/logo.svg": "/kotelshik/static/media/logo.98cc760add4f422fafba65d337049035.svg",
+    "index.html": "/kotelshik/index.html",
+    "main.86fb3d7c.css.map": "/kotelshik/static/css/main.86fb3d7c.css.map",
+    "main.642df553.js.map": "/kotelshik/static/js/main.642df553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fb3d7c.css",
+    "static/js/main.642df553.js"
+  ]
+}
